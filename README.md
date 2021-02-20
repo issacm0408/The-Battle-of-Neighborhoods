@@ -1,3 +1,3 @@
 # The-Battle-of-Neighborhoods
 
-## Deciding the category and location of a new restaurant in downtown area,Shanghai
+## Deciding the category and location to open a new restaurant in downtown area,Shanghai
